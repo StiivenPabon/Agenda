@@ -164,6 +164,8 @@ public class Controlador implements ActionListener {
         }
     }
 
+    
+    //tabla notas //
     public void TablaNotas() {
 
         try {
